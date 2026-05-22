@@ -1,4 +1,4 @@
-# E-Commerce Backend API - Laravel 12
+# E-Commerce Backend API - Laravel 13
 
 ## Features
 - Laravel Sanctum Authentication
