@@ -1,4 +1,6 @@
 # E-Commerce Backend API - Laravel 13
+<img width="400" height="293" alt="Screenshot 2026-05-22 070740" src="https://github.com/user-attachments/assets/0a3cea9f-34b4-4da7-a5eb-fe794956a0d1" />
+
 
 ## Features
 - Laravel Sanctum Authentication
